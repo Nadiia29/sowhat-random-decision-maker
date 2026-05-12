@@ -112,11 +112,38 @@ cd SoWhat
 
 ### 📸 Screenshots
 
-Hero Section
+###  Hero Section
+![Hero](screenshots/header.png)
 
-Categories
+### About
+![About](screenshots/about.png)
 
-Result Example
+### Contacts
+![Contacts](screenshots/contact.png)
+
+### Btn_decide
+![Btn_decide](screenshots/btn_decide.png)
+![Btn_decide](screenshots/btn_decide2.png)
+
+### Categories
+![Categories](screenshots/eat.png)
+![Categories](screenshots/watch.png)
+![Categories](screenshots/go_out.png)
+![Categories](screenshots/learn.png)
+![Categories](screenshots/play.png)
+![Categories](screenshots/create.png)
+
+
+### Adaptive
+![Adaptive](screenshots/adaptive.png)
+![Adaptive](screenshots/adaptive_1.png)
+![Adaptive](screenshots/adaptive_2.png)
+![Adaptive](screenshots/adaptive_3.png)
+![Adaptive](screenshots/adaptive_mob.png)
+![Adaptive](screenshots/adaptive_mob2.png)
+![Adaptive](screenshots/adaptive_mob3.png)
+
+
 
 ### 🎨 Design Highlights
 
